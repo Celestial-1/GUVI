@@ -31,7 +31,7 @@ def fibonacci(n):
     return fib_series
 
 # Take user input for the number of Fibonacci numbers to generate
-n = int(input("Enter the number of Fibonacci numbers to generate: "))
+n = int(input())
 
 # Check if the user input is 0
 if n == 0:
