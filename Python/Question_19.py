@@ -12,6 +12,7 @@
 # Sample Output :
 # U
 
+
 # Function to get character at index or print "None" if index is out of bounds
 def get_char_at_index(input_str, index):
     if 1 <= index < len(input_str):
