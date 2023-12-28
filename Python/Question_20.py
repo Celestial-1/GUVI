@@ -11,6 +11,7 @@
 # Sample Output :
 # 24
 
+# Code for ex like n= 3 the sum = 2 + 22 + 222
 
 # Function to calculate the sum of series
 def series_sum(n):
