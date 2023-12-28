@@ -12,6 +12,7 @@
 # Sample Output :
 # U
 
+# In this code output is Capatalize and Both first and second input be a string and index.
 
 # Function to get character at index or print "None" if index is out of bounds
 def get_char_at_index(input_str, index):
