@@ -18,7 +18,7 @@
 def remove_empty_strings(elements):
     result = []
     for i in elements:
-        if i != '':
+        if i != ' ':
             result.append(i)
     return result
 
@@ -38,7 +38,7 @@ for i in range(len(result)):
 
 def remove_empty_strings(size, elements):
     # Use list comprehension to filter out empty strings
-    result = [element for element in elements if element != '']
+    result = [element for element in elements if element != ' ']
     return result
 
 # Input
